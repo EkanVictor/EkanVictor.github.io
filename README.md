@@ -22,3 +22,4 @@
 **Key Finding:** steady rise in sales in quarter 1 followed by steady drop in sales in quater 2 and quarter 4. Sales generated from only amazon channel are twice the ones generated from four other channels. Women are the largest customer base. Top 5 performing state were identified.
 
 **Dashboard Overview:** 
+![Vrinda](Vrinda.PNG)
