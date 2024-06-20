@@ -10,6 +10,6 @@
 
 **Dashboard Overview:** 
 ![Dash](Dash.PNG)
-![Dash Ltd](Dash Ltd.pbix)
+![DashLtd](DashLtd.pbix)
 
 # Project 2
