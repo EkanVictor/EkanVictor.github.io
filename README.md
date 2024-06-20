@@ -10,7 +10,7 @@
 
 **Dashboard Overview:** 
 ![Dash](Dash.PNG)
-![DashLtd](DashLtd.pbix)
+[DashLtd](DashLtd.pbix)
 
 # Project 2
 **Title:** [Vrinda Stores Sales Performance Dashboard 2022](https://github.com/EkanVictor/EkanVictor.github.io)
@@ -23,4 +23,5 @@
 
 **Dashboard Overview:** 
 ![Vrinda](Vrinda.PNG)
+[VrindaStores](VrindaStores.xlsx)
 
