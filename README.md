@@ -4,9 +4,9 @@
 
 **Tools Used:** Power BI (conditional formatting, power query editor, DAX)
 
-**Description:** This project involved analysing the sales data of Dash Ltd to identify trends and pattern in sales performance for 2023/2024 financial year. The goal of the dashboard is to provide actional insight to improved the company sales strategy.
+**Description:** This project involved analysing the sales data of Dash Ltd to monitor and evalute customers feedback, products feedback, identify trends and pattern in sales performance for 2023/2024 financial year. The goal of the dashboard is to provide actional insight to improved customers satisfaction, product performance, and the company sales strategy.
 
-**Key Finding:**
+**Key Finding:** 2 out of every 10 customers have given a bad rating/feedback. USA is the country with the largest sales contribution while Canada is the least. The electronic product category is the largest revenue contributor followed by grocery product category.
 
 **Dashboard Overview:** 
 ![Dash](Dash.PNG)
