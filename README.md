@@ -25,3 +25,19 @@
 ![Vrinda](Vrinda.PNG)
 [VrindaStores](VrindaStores.xlsx)
 
+
+# Project 3
+**Title:** [SQL TASK](https://github.com/EkanVictor/EkanVictor.github.io)
+
+**Tools Used:** SQL (select statement, sql queries, where clause, and & or operators, wild card characters, top clause, order by clause, aggregate function, group by clause, having clause, case statement, join clause)
+
+**Description:** This project involved using sql tools to providing wild range of information to support business decisions.
+
+**Key Finding:** 
+
+**Dashboard Overview:** 
+![SQLscreenshot1](SQLscreenshot1.PNG)
+![SQLscreenshot2](SQLscreenshot2.PNG)
+![SQLscreenshot3](SQLscreenshot3.PNG)
+![SQLscreenshot4](SQLscreenshot4.PNG)
+[SQLtask](SQLtask.sql)
