@@ -38,6 +38,6 @@
 **Dashboard Overview:** 
 ![SQLscreenshot1](SQLscreenshot1.PNG)
 ![SQLscreenshot2](SQLscreenshot2.PNG)
-![SQLscreenshot3](SQLscreenshot3.PNG)
-![SQLscreenshot4](SQLscreenshot4.PNG)
+![SQLsreenshot3](SQLsreenshot3.PNG)
+![SQLsreenshot4](SQLsreenshot4.PNG)
 [SQLtask](SQLtask.sql)
