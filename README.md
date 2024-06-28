@@ -6,7 +6,8 @@
 
 **Description:** This project involved analysing the sales data of Dash Ltd to monitor and evalute customers feedback, products feedback, identify trends and pattern in sales performance for 2023/2024 financial year. The goal of the dashboard is to provide actional insight to improved customers satisfaction, product performance, and the company sales strategy.
 
-**Key Finding:** 2 out of every 10 customers have given a bad rating/feedback. USA is the country with the largest sales contribution while Canada is the least. The electronic product category is the largest revenue contributor followed by grocery product category.
+**Key Finding:** **(1)** 2 out of every 10 customers have given a bad rating/feedback. 
+              **(2)** USA is the country with the largest sales contribution while Canada is the least.                                                                        **(3)** The electronic product category is the largest revenue contributor followed by grocery product category.
 
 **Dashboard Overview:** 
 ![Dash](Dash.PNG)
@@ -19,7 +20,9 @@
 
 **Description:** This project involved analysing the sales data of Vrinda Stores to identify trends and pattern in channel sales, gender sales, key performing state, percentage of delivered orders and cancelled orders in year 2022 financial year. The goal of the dashboard is to provide actional insight to improved the company sales strategy with regards to low performing channels and product category.
 
-**Key Finding:** steady rise in sales in quarter 1 followed by steady drop in sales in quater 2 and quarter 4. Sales generated from only amazon channel are twice the ones generated from four other channels. Women are the largest customer base. Top 5 performing state were identified.
+**Key Finding:** **(1)** steady rise in sales in quarter 1 followed by steady drop in sales in quater 2 and quarter 4. 
+**(2)** Sales generated from only amazon channel are twice the ones generated from four other channels. 
+**(3)** Women are the largest customer base. Top 5 performing state were identified.
 
 **Dashboard Overview:** 
 ![Vrinda](Vrinda.PNG)
@@ -32,8 +35,6 @@
 **Tools Used:** SQL (select statement, sql queries, where clause, and & or operators, wild card characters, top clause, order by clause, aggregate function, group by clause, having clause, case statement, join clause)
 
 **Description:** This project involved using sql tools to providing wild range of information to support business decisions.
-
-**Key Finding:** 
 
 **Dashboard Overview:** 
 ![SQLscreenshot1](SQLscreenshot1.PNG)
